@@ -257,6 +257,7 @@ input[type=submit] {
 	}
 	#main-container, #connect{
 		max-width: 600px;
+		padding-top: 20px;
 	}
 	.bio-image{
 		width:100%;
